@@ -279,7 +279,7 @@
 }
 
 #friends,.appMount-3VJmYg,.applicationStore-1pNvnv,.article-3kb3qm,.body-3ND3kc,.body-3iLsc4,.channels-Ie2l6A,.chat-3bRxxu,.chat-3bRxxu form,.container-1D34oG,.container-1UB9sr,.container-2Thooq,.container-3ayLPN,.container-PNkimc,.content-yTz4x3,.da-itemCard,.da-nowPlayingScroller,.da-peopleList,.enabled-1t_Gxm:hover,.footer-1fjuF6,.gameLibrary-TTDw4Y,.guildsWrapper-5TJh6A,.header-2o-2hj,.header-39GIC8,.headerBar-UHpsPw,.memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover,.members-1998pB,.messagesWrapper-3lZDfY,.nowPlayingColumn-2sl4cE,.peopleList-3c4jOR,.root-1BQpZw,.root-26DmKJ,.title-3qD0b-,.typeWindows-1za-n7,.video-1FfuMD{
-	background-color:var(--backgroundDark)!important
+	background-color:var(--backgroundSpecial)!important
 }
 
 .peopleListItem-2nzedh:hover,
@@ -324,8 +324,8 @@
 }
 
 [role="img"][aria-label]:before {
-	top: 3px;
-	left: 3px;
+	top: 2px;
+	left: 2px;
 	width: calc(100% - 2px);
 	height: calc(100% - 2px);
 }
@@ -617,11 +617,10 @@
 	display: none
 }
 
-.
-Windows-1za-n7 {
+.typeWindows-1za-n7 {
 	margin: 0;
 	border-bottom: 1px solid rgba(0,0,0,.25);
-	height: 23px
+	height: 25px
 }
 
 .app-19_DXt {
