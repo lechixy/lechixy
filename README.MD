@@ -2,9 +2,9 @@
 - After effects editor, designer maybe discord.js developer(?)
 
 ##Socials
-###Instagram
-[Instagram](http://instagram/lechixy)
-####Discord
+
+-http://instagram/lechixy
+
 -! *A Lechixy 🦋#1987
 
 
