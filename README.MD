@@ -1,6 +1,12 @@
 # Lechixy's Github
 - After effects editor, designer maybe discord.js developer(?)
 
-**Socials**
-
+##Socials
+###Instagram
 [Instagram](http://instagram/lechixy)
+####Discord
+-! *A Lechixy 🦋#1987
+
+
+
+####End
