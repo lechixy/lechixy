@@ -3,7 +3,7 @@
 
 ## Socials
 ### Instagram
-- http://instagram/lechixy
+- https://www.instagram.com/lechixy/
 ### Discord
 - ! *A Lechixy 🦋#1987
 
