@@ -3,9 +3,9 @@
 
 ## Socials
 ### Instagram
--http://instagram/lechixy
+- http://instagram/lechixy
 ### Discord
--! *A Lechixy 🦋#1987
+- ! *A Lechixy 🦋#1987
 
 
 
