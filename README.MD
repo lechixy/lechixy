@@ -7,6 +7,8 @@
 ### Discord
 - ! *A Lechixy 🦋#1987
 
+## Fun
+
 > they was loving someone for first time
 ![](https://www.denofgeek.com/wp-content/uploads/2021/07/Loki-Sylvie.jpg?fit=1200%2C675)
 
