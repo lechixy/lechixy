@@ -5,4 +5,4 @@
 ### Instagram
 - https://www.instagram.com/lechixy/
 ### Discord
-- ! *A Lechixy 🦋#1000
+- ! *A Lechixy 🦋#0001
