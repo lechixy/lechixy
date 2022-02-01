@@ -1,7 +1,9 @@
 # Lechixy's Code Universe
-- interested in javascript/typescript and react ❤️
+- loves writing javascript/typescript and react ❤️
 
 ## Socials
+### Page
+- https://lechixy.herokuapp.com/
 ### Instagram
 - https://www.instagram.com/lechixy/
 ### Discord
