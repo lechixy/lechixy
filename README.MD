@@ -1,10 +1,10 @@
-# Lechixy's Code Universe
+# just lechixy
 - loves writing javascript/typescript and react ❤️
 
-## Socials
-### Page
+## socials
+### page
 - https://lechixy.herokuapp.com/
-### Instagram
+### instagram
 - https://www.instagram.com/lechixy/
-### Discord
+### discord
 - ! *A Lechixy 🦋#0001
