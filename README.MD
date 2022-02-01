@@ -1,5 +1,5 @@
 # Lechixy's Github
-- interested in js, ts and html
+- interested in javascript/typescript and react
 
 ## Socials
 ### Instagram
