@@ -1,5 +1,5 @@
-# hi
-- love writing js/ts/react/next ❤️
+# only lechixy❤️
+- love writing js/ts/react/next :)
 
 ## page
 - https://lechixy.herokuapp.com/
