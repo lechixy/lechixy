@@ -2,4 +2,6 @@
 i like coding and creating solutions for my problems
 ### **✨ https://lechixy.dev ✨**
 
-![jarvis](https://iili.io/ftQxKTN.gif)
+<div align="left">
+  <img src="https://iili.io/ftQxKTN.gif" width="100%" />
+</div>
