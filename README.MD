@@ -3,5 +3,5 @@ i like coding and creating solutions for my problems
 ### **✨ https://lechixy.dev ✨**
 
 <div align="left">
-  <img src="https://iili.io/ftQxKTN.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/lechixy/lechixy/refs/heads/main/tonystark.gif" width="100%" />
 </div>
