@@ -1,5 +1,6 @@
 # Hiiii I'm Melih 
 i like coding and creating solutions for my problems
+also college student from Kocaeli University
 ### **✨ https://lechixy.dev**
 
 <div align="left">
